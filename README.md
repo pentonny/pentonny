@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
   <br>
 
-  <p><strong>IaC</strong></p>
+  <p><strong>✔IaC</strong></p>
   <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
 </div>
