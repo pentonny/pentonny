@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pentonny%20Github!&fontSize=90" />
 </div>
 
-<div align=center><h1>📚Tech Stacks</h1></div>
+<div align=center><h1>📚Tech Stacks📚</h1></div>
 
 <div align=center>
   <p><strong>✔Server</strong></p>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
 
-  <p><strong>✔IaC</strong></p>
+  <p><strong>🌈Follow Me🌈</strong></p>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
