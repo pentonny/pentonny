@@ -34,7 +34,7 @@
   <p><strong>✔etc</strong></p>
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
-
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <br>
 
   <h3><strong>🌈Follow Me🌈</strong></h3>
