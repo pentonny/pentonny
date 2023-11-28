@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pentonny%20Github!&fontSize=90" />
 
+<img src="https://img.shields.io/badge/amazonaws?style=flat&logo=amazonaws&logoColor=white"/>
 <!--
 **pentonny/pentonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
