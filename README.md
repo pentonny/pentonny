@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=black"> 
   <br>
 
-  p><strong>Monitoring</strong></p>
+  <p><strong>Monitoring</strong></p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
   <img src="https://img.shields.io/badge/datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> 
   <br>
 
-  p><strong>IaC</strong></p>
+  <p><strong>IaC</strong></p>
   <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
 </div>
