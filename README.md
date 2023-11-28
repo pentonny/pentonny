@@ -34,7 +34,7 @@
   <p><strong>🌈Follow Me🌈</strong></p>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badgevelog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </div>
 
 <!--
