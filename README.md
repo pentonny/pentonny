@@ -30,6 +30,9 @@
   <p><strong>✔IaC</strong></p>
   <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
   <br>
+
+  <p><strong>✔IaC</strong></p>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
 <!--
